@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\obj\Debug\net9.0\Excercicios Próprios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\obj\Debug\net9.0\Excercicios Próprios.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\obj\Debug\net9.0\Excercicios Próprios.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\obj\Debug\net9.0\Excercicios Próprios.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\bin\Debug\net9.0\Excercicios Próprios.exe
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\bin\Debug\net9.0\Excercicios Próprios.deps.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\bin\Debug\net9.0\Excercicios Próprios.runtimeconfig.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\bin\Debug\net9.0\Excercicios Próprios.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\bin\Debug\net9.0\Excercicios Próprios.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\obj\Debug\net9.0\Excercicios Próprios.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\obj\Debug\net9.0\refint\Excercicios Próprios.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\obj\Debug\net9.0\Excercicios Próprios.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\obj\Debug\net9.0\Excercicios Próprios.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\Excercicios Próprios\obj\Debug\net9.0\ref\Excercicios Próprios.dll
