@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "pyM8VUvp/8s=",
   "success": true,
   "projectFilePath": "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\GitC#\\CSharp\\Calculadora_Simples\\Excercicios Próprios.csproj",
+=======
+  "dgSpecHash": "r0//ombEPn8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\Excercicios Próprios\\Excercicios Próprios.csproj",
+>>>>>>> 3db08b58e42d58243f0c6103fa4d6b11e420ebb7
   "expectedPackageFiles": [],
   "logs": []
 }
