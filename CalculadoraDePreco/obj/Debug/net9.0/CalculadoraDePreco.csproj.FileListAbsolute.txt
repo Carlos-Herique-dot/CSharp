@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\bin\Debug\net9.0\CalculadoraDePreco.exe
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\bin\Debug\net9.0\CalculadoraDePreco.deps.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\bin\Debug\net9.0\CalculadoraDePreco.runtimeconfig.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\bin\Debug\net9.0\CalculadoraDePreco.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\bin\Debug\net9.0\CalculadoraDePreco.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\CalculadoraDePreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\CalculadoraDePreco.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\CalculadoraDePreco.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\CalculadoraDePreco.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\CalculadoraDePreco.sourcelink.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\CalculadoraDePreco.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\refint\CalculadoraDePreco.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\CalculadoraDePreco.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\CalculadoraDePreco.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CalculadoraDePreco\obj\Debug\net9.0\ref\CalculadoraDePreco.dll

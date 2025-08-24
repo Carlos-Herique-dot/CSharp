@@ -1,0 +1,6 @@
+@DownTube_HostAddress = http://localhost:5098
+
+GET {{DownTube_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
