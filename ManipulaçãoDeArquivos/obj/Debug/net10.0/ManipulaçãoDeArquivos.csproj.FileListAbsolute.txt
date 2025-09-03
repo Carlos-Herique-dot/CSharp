@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\bin\Debug\net10.0\ManipulaçãoDeArquivos.exe
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\bin\Debug\net10.0\ManipulaçãoDeArquivos.deps.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\bin\Debug\net10.0\ManipulaçãoDeArquivos.runtimeconfig.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\bin\Debug\net10.0\ManipulaçãoDeArquivos.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\bin\Debug\net10.0\ManipulaçãoDeArquivos.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\ManipulaçãoDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\ManipulaçãoDeArquivos.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\ManipulaçãoDeArquivos.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\ManipulaçãoDeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\ManipulaçãoDeArquivos.sourcelink.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\ManipulaçãoDeArquivos.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\refint\ManipulaçãoDeArquivos.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\ManipulaçãoDeArquivos.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\ManipulaçãoDeArquivos.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\ManipulaçãoDeArquivos\obj\Debug\net10.0\ref\ManipulaçãoDeArquivos.dll
