@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\GitC#\\CSharp\\Calculadora_Simples\\Excercicios Próprios.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\GitC#\\CSharp\\Calculadora_Simples\\Excercicios Próprios.csproj",
         "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\GitC#\\CSharp\\Calculadora_Simples\\obj\\",
-=======
-    "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\Excercicios Próprios\\Excercicios Próprios.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\Excercicios Próprios\\Excercicios Próprios.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\Excercicios Próprios\\Excercicios Próprios.csproj",
-        "projectName": "Excercicios Próprios",
-        "projectPath": "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\Excercicios Próprios\\Excercicios Próprios.csproj",
-        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos\\Desktop\\Estudo\\CSharp\\Excercicios Próprios\\obj\\",
->>>>>>> 3db08b58e42d58243f0c6103fa4d6b11e420ebb7
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste01</title>
+</head>
+<body>
+    <h1>Enviar dados</h1>
+    <form action="">
+        <label for="nome">Digite seu nome: </label>
+        <input type="text" name="nomeImput" id="nomeInput">
+        <button id="btnEnviar">Enviar para API</button>
+        <p id="resposta"></p>
+    </form>
+
+    <script>
+        const enviarBtn = document.getElementById('btnEnviar');
+        const nomeInput = document.getElementById('nomeInput');
+        const respostaP = document.getElementById('resposta');
+
+        enviarBtn.addEventListener('click', async () =>{
+            const nome = nomeInput.value;
+
+            if (!nome) {
+                respostaP.textContent = "Por favor, digite um nome.";
+                return;
+            }
+
+            const url = 'http://localhost:5168/dados';
+
+            try{
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers:{
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ Nome: nome})
+                });
+
+                if (response.ok) {
+                    const mensagem = await response.text();
+                    respostaP.textContent = `Resposta da API: ${mensagem} `;
+                }
+                else{
+                    respostaP.textContent = `Erro: ${response.status} - ${response.statusText}`;
+                }
+            }
+            catch(error)
+            {
+                respostaP.textContent = `Erro na requisição ${error.message}`;
+                console.error('Erro na requisição:', error);
+            }
+        });
+    </script>
+</body>
+</html>

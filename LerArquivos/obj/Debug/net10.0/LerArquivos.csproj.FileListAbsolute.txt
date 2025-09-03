@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\bin\Debug\net10.0\LerArquivos.exe
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\bin\Debug\net10.0\LerArquivos.deps.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\bin\Debug\net10.0\LerArquivos.runtimeconfig.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\bin\Debug\net10.0\LerArquivos.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\bin\Debug\net10.0\LerArquivos.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\LerArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\LerArquivos.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\LerArquivos.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\LerArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\LerArquivos.sourcelink.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\LerArquivos.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\refint\LerArquivos.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\LerArquivos.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\LerArquivos.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\LerArquivos\obj\Debug\net10.0\ref\LerArquivos.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraDePreco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0fc54d8ed442785d86273a944b102e15acce649")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c75f5088e7ec6d0861b11f9c1cbb22710f7566f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraDePreco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraDePreco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
