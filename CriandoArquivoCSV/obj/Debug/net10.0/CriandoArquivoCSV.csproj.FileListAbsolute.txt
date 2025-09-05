@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\CriandoArquivoCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\CriandoArquivoCSV.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\CriandoArquivoCSV.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\CriandoArquivoCSV.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\CriandoArquivoCSV.sourcelink.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\bin\Debug\net10.0\CriandoArquivoCSV.exe
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\bin\Debug\net10.0\CriandoArquivoCSV.deps.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\bin\Debug\net10.0\CriandoArquivoCSV.runtimeconfig.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\bin\Debug\net10.0\CriandoArquivoCSV.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\bin\Debug\net10.0\CriandoArquivoCSV.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\CriandoArquivoCSV.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\refint\CriandoArquivoCSV.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\CriandoArquivoCSV.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\CriandoArquivoCSV.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\CriandoArquivoCSV\obj\Debug\net10.0\ref\CriandoArquivoCSV.dll
