@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\bin\Debug\net10.0\EncurtadorURLConsole.exe
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\bin\Debug\net10.0\EncurtadorURLConsole.deps.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\bin\Debug\net10.0\EncurtadorURLConsole.runtimeconfig.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\bin\Debug\net10.0\EncurtadorURLConsole.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\bin\Debug\net10.0\EncurtadorURLConsole.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\EncurtadorURLConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\EncurtadorURLConsole.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\EncurtadorURLConsole.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\EncurtadorURLConsole.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\EncurtadorURLConsole.sourcelink.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\EncurtadorURLConsole.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\refint\EncurtadorURLConsole.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\EncurtadorURLConsole.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\EncurtadorURLConsole.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\EncurtadorURLConsole\obj\Debug\net10.0\ref\EncurtadorURLConsole.dll
