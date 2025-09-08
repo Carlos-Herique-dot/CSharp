@@ -7,6 +7,14 @@ namespace GerenciamentoBiblioteca.Models
 {
     public class Livro
     {
+        public Livro() { }
+        public Livro(string titulo, string autor, int anoPublicado, int quantidade)
+        {
+            Titulo = titulo;
+            Autor = autor;
+            AnoPublicado = anoPublicado;
+            Quantidade = quantidade;
+        }
         private string? _Titulo;
         private string? _Autor;
         private int _AnoPublicado;
