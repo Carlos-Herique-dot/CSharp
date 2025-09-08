@@ -1,5 +1,6 @@
 ﻿using GerenciamentoBiblioteca.Models;
 using MySqlConnector;
+Console.Title = "Gerenciamento de Biblioteca";
 
 static string Menu()
 {
@@ -32,9 +33,29 @@ while (true)
             int quantidade = int.Parse(Console.ReadLine()!);
 
             var livro = new Livro(titulo, autor, anoPublicado, quantidade);
-            
+
             livro.InserirLivro();
             Console.ReadKey();
             continue;
+        case "2":
+            Console.Clear();
+            var livroListar = new Livro();
+            livroListar.ListarLivro();
+            break;
+        case "3":
+            break;
+        case "4":
+            Console.Clear();
+            Console.WriteLine("Digite o nome do membro:");
+            string? nomeMembro = Console.ReadLine()!;
+            Console.WriteLine("Digite o título do livro a ser emprestado:");
+            string? tituloLivro = Console.ReadLine()!;
+            break;
+        case "5":
+            break;
+        case "6":
+            Console.WriteLine("Saindo...");
+            Environment.Exit(0);
+            break;
     }
 }

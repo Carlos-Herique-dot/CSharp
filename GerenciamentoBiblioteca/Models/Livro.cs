@@ -15,6 +15,10 @@ namespace GerenciamentoBiblioteca.Models
             AnoPublicado = anoPublicado;
             Quantidade = quantidade;
         }
+        public Livro(string titulo)
+        {
+            Titulo = titulo;
+        }
         private string? _Titulo;
         private string? _Autor;
         private int _AnoPublicado;
@@ -40,6 +44,19 @@ namespace GerenciamentoBiblioteca.Models
         {
             SQL sql = new SQL();
             sql.Inserir(_Titulo!, _Autor!, _AnoPublicado, _Quantidade);
+        }
+
+        public void ListarLivro()
+        {
+            SQL sql = new SQL();
+            sql.Listar();
+            Console.ReadKey();
+        }
+
+        public void EmprestarLivro()
+        {
+            SQL sql = new SQL();
+            sql.EmprestarLivro(_Titulo!);
         }
 
     }
