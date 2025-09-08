@@ -7,8 +7,8 @@ namespace Gerenciador_Tarefas.Models
 {
     public class ComandosSQLite
     {
-        private string connectionString = @"/Arquivos/agenda.db";
-        private string dataSource = @"/Arquivos/agenda.db";
+        private string connectionString = @"Arquivos/agenda.db";
+        private string dataSource = @"Arquivos/agenda.db";
         public void Conexao()
         {
             using (SQLiteConnection conexao = new SQLiteConnection(connectionString))

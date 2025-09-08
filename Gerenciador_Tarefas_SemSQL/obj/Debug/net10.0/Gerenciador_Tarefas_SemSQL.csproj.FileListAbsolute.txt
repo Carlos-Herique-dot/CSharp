@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\bin\Debug\net10.0\Gerenciador_Tarefas_SemSQL.exe
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\bin\Debug\net10.0\Gerenciador_Tarefas_SemSQL.deps.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\bin\Debug\net10.0\Gerenciador_Tarefas_SemSQL.runtimeconfig.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\bin\Debug\net10.0\Gerenciador_Tarefas_SemSQL.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\bin\Debug\net10.0\Gerenciador_Tarefas_SemSQL.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\Gerenciador_Tarefas_SemSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\Gerenciador_Tarefas_SemSQL.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\Gerenciador_Tarefas_SemSQL.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\Gerenciador_Tarefas_SemSQL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\Gerenciador_Tarefas_SemSQL.sourcelink.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\Gerenciador_Tarefas_SemSQL.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\refint\Gerenciador_Tarefas_SemSQL.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\Gerenciador_Tarefas_SemSQL.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\Gerenciador_Tarefas_SemSQL.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Gerenciador_Tarefas_SemSQL\obj\Debug\net10.0\ref\Gerenciador_Tarefas_SemSQL.dll
