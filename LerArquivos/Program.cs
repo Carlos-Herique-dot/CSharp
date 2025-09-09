@@ -1,11 +1,11 @@
 ﻿
-const string filePath = @"C:\Users\Carlos\Desktop\Teste_ler.json";
+const string filePath = @"winequality-white.csv";
 
 var data = File.ReadAllText(filePath);
 Console.WriteLine(data);
 
 // var data = File.ReadAllLines(filePath);
-// foreach (var line in data)
+// foreach (var line in data.Where(l => l.Contains("7")))
 // {
 //     Console.WriteLine(line);
 // }
