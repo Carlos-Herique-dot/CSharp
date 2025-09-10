@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TesteAPI .Net 10</title>
+</head>
+<body>
+    <h1>Enviar Dados para API</h1>
+
+    <form id="meuFormulario">
+        <label for="nome">Nome</label>
+        <input type="text" name="nome" id="nome" required>
+
+        <label for="senha">Senha</label>
+        <input type="password" name="senha" id="senha" required>
+
+        <button type="submit">Enviar Dados</button>
+    </form>
+    
+    <p id="feedback"></p>
+
+    <script>
+        const apiUrl = 'http://localhost:5201/api/Formulario';
+
+        const meuFormulario = document.getElementById('meuFormulario');
+        const feedback = document.getElementById('feedback');
+
+        meuFormulario.addEventListener('submit', async (e) =>{
+            e.preventDefault();
+            
+            const dadosFormulario = {
+                nome: document.getElementById('nome').value,
+                senha: document.getElementById('senha').value
+        };          
+
+        try {
+            const response = await fetch(apiUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(dadosFormulario)
+            });
+
+            if (response.ok){
+                feedback.textContent = 'Dados enviados com sucesso!';
+            } else {
+                feedback.textContent = 'Erro ao enviar dados.';
+            }
+
+            } catch (error) {
+                feedback.textContent = `Erro ao enviar dados. ${error.message}`;
+                
+            }
+        });
+    </script>
+</body>
+</html>
