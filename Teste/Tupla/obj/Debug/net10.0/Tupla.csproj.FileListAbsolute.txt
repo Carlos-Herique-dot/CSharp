@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\bin\Debug\net10.0\Tupla.exe
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\bin\Debug\net10.0\Tupla.deps.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\bin\Debug\net10.0\Tupla.runtimeconfig.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\bin\Debug\net10.0\Tupla.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\bin\Debug\net10.0\Tupla.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\Tupla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\Tupla.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\Tupla.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\Tupla.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\Tupla.sourcelink.json
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\Tupla.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\refint\Tupla.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\Tupla.pdb
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\Tupla.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Teste\Tupla\obj\Debug\net10.0\ref\Tupla.dll
