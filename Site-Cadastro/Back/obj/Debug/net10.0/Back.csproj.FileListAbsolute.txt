@@ -32,3 +32,4 @@ C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Site-Cadastro\Back\obj\Debug\
 C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Site-Cadastro\Back\obj\Debug\net10.0\Back.genruntimeconfig.cache
 C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Site-Cadastro\Back\obj\Debug\net10.0\ref\Back.dll
 C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Site-Cadastro\Back\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\Carlos\Desktop\Estudo\CSharp\GitC#\CSharp\Site-Cadastro\Back\bin\Debug\net10.0\MySqlConnector.dll
