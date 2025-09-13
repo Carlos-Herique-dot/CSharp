@@ -1,29 +1,33 @@
+using Microsoft.AspNetCore.Mvc;
 using ApiCadastro.Classes;
+using Microsoft.AspNetCore.Http.HttpResults;
+
 var builder = WebApplication.CreateBuilder(args);
 
+
 builder.Services.AddOpenApi();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: "MeuCors", builder =>
+    {
+        builder.WithOrigins("http://localhost:5028").AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
+    });
+}); 
+
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
-{
-    app.MapOpenApi();
-}
+app.UseCors("MeuCors");
 
-app.MapGet("/savar-usuario", (Usuarios usuarios) =>
+app.MapPost("/salvar-usuario", ([FromForm]Usuarios usuarios) =>
 {
-    Console.WriteLine($"Nome: {usuarios.Nome} - Senha: {usuarios.Senha}");
-    return Results.Ok("Usuário salvo com sucesso!");
-});
+    return usuarios;   
+     
+}).DisableAntiforgery();
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 
 app.Run();
 
 
-public class Usuarios
-{
-        public string Nome { get; set; }    
-        public string Senha { get; set; }
-}

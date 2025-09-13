@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+}
+
+html{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+}
+
+body{
+    background-image: linear-gradient(to top,rgb(96, 96, 147), rgb(41, 41, 145));
+    padding-top: 10vh;
+}
+
+#campo-central{
+    max-width: 400px;
+    margin: auto;
+}
+
+legend{
+    font-size: 1.2em;
+    color: white;
+}
+
+fieldset{
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.577);
+}
+
+label{
+    color: black;
+    top: -25px;
+    position: relative;
+}
+
+.input{
+    position: relative;
+    width: 360px;
+    margin: 5px auto;
+    height: 22px;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+    outline: none;
+    font-size: 1.1em;
+    color: white;
+}
+
+.input:hover + label{
+    top: -49px;
+    font-size: 0.7em;
+    color: white;
+    transition: 0.5s;
+}
+
+button[type="submit"]{
+    font-size: 1.3em;
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+    transition: 0.3s;
+    margin-top: 5px;
+}
+
+button[type="submit"]:hover{
+    color: white;
+    background-color: rgb(6, 6, 176);
+}

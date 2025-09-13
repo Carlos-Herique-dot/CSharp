@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste Front Api</title>
+</head>
+<body>
+    <h1>Sistema de cadastro</h1>
+    <form id="form-cadastro">
+        <label for="nome">Nome:</label>
+        <input type="text" name="nome" id="nome">
+        <br>
+        <label for="senha">Senha:</label>
+        <input type="text" name="senha" id="senha">
+
+        <br>
+        <button type="submit">Cadastrar</button>
+    </form>
+    <p id="feedback"></p>
+
+    <script type="module">
+
+        const feedback = document.getElementById("feedback");
+        const cadastro = document.getElementById("form-cadastro");
+
+        cadastro.addEventListener('submit', (evento) =>{
+            
+            evento.preventDefault();
+
+            const urlApi = "http://localhost:5028/salvar-usuario";
+
+            const dados = new FormData(cadastro);
+
+            fetch(urlApi, {
+                method: 'POST',
+                body: dados
+
+            }).then(resposta => {
+                if (!resposta.ok){
+                    feedback.textContent = "Deu erro";
+                }
+                return resposta.json();
+            }).then(resp => {
+                alert('Sucesso');
+                feedback.textContent = "Sucesso";
+            }).catch(erro => {
+                alert('Erro ao enviar', erro);
+            });
+        });
+
+    </script>
+    
+</body>
+</html>
