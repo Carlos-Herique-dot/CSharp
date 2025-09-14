@@ -33,6 +33,7 @@ label{
     color: black;
     top: -25px;
     position: relative;
+    transition: 0.5s;
 }
 
 .input{
@@ -48,14 +49,11 @@ label{
     color: white;
 }
 
-
 .input:hover + label, .input:valid + label {
     top: -49px;
     font-size: 0.7em;
     color: white;
-    transition: 0.5s;
 }
-
 
 button[type="submit"]{
     font-size: 1.3em;
@@ -70,3 +68,17 @@ button[type="submit"]:hover{
     color: white;
     background-color: rgb(6, 6, 176);
 }
+
+#login{
+    display: inline;
+    margin-left: 25px;
+}
+
+a{
+    color: black;  
+}
+
+a:hover{
+    color: rgb(255, 255, 255)
+}
+
