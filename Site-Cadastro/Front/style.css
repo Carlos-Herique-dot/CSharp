@@ -48,12 +48,14 @@ label{
     color: white;
 }
 
-.input:hover + label{
+
+.input:hover + label, .input:valid + label {
     top: -49px;
     font-size: 0.7em;
     color: white;
     transition: 0.5s;
 }
+
 
 button[type="submit"]{
     font-size: 1.3em;
